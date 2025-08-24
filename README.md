@@ -36,8 +36,6 @@
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
 <img align="left" alt="React" width="30px" style="padding-right:10px;"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="left" alt="Redux" width="30px" style="padding-right:10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;"
@@ -52,10 +50,6 @@
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-<img align="left" alt="Blender" width="30px" style="padding-right:10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"/>
-<img align="left" alt="Photoshop" width="30px" style="padding-right:10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"/>
 <br />
 
 #
