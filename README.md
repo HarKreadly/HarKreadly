@@ -1,6 +1,16 @@
 # Har Kreadly 
 
 **`Digital Craftsman (Developer/Creator)`**
+<hr>
+
+### 👨‍💻 About Me
+
+I’m Har, a **Full Stack Web Developer** with a strong background in both technical development and entrepreneurship.
+I specialize in building scalable, user-friendly web applications and providing end-to-end solutions — from frontend design to backend systems, databases, and deployment.
+
+With experience across **React, Redux, Node.js, Laravel, and Docker**, I bring a versatile skill set to create modern digital products. Beyond development, I also explore 3D modeling, UI/UX design, and creative problem-solving, giving my projects both functionality and aesthetics.
+
+<hr>
 
 **`A passionate full stack developer from Morocco`**
 
@@ -13,6 +23,8 @@
 - ⚡ Fun fact **I am obsessed with video games**
 
 <br>
+
+<hr>
 
 ### 🧰 Languages and Tools
 
